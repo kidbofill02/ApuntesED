@@ -13,3 +13,15 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Evitar archivos pesados o generados (Punto 7)
+*.pdf
+
+# Evitar archivos compilados de Java (Punto 8)
+*.class
+
+# Otros archivos de Java/Maven (Punto 9)
+/target/
+.project
+.classpath
+.settings/
