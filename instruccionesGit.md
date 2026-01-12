@@ -56,5 +56,5 @@
 
 `git revert <hash_commit>`: Revierte el commit realizado, identificado por el “hash_commit”.
 
-`git clone <url del repositorio>`: Clona el repositorio en el directorio local”.
+`git clone <url del repositorio>`: El comando git clone sirve para descargar una copia exacta de un repositorio remoto a nuestro ordenador local.”.
 
